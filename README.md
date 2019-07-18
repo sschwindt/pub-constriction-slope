@@ -1,4 +1,10 @@
-# Bottom slope influence on flow and bedload transfer through contractions
+Folder and file summary:
+
+ - `RawData/`
+ - `ProcessedData/`
+ - `Drance_Martigny/`
+ 
+***
 
 This repository contains data used in ["Bottom slope influence on flow and bedload transfer through contractions"](https://doi.org/10.1080/00221686.2018.1454519).
 
@@ -45,4 +51,6 @@ The **`ProcessedData/000_summary/`** folder contains two workbooks that summariz
 The **`ProcessedData/001_regression_analysis/`** folder contains *Matlab* / *Octave* (`.m`) codes for data regression (curves) shown in figures and tables. A workbook summarizes the calculated regression coefficients.
 
 The **`ProcessedData/002_plots/`** folder contains *Matlab* / *Octave* (`.m`) codes for producing the plots (figures) for the paper.
+
+The **`Drance_Martigny/`** folder contains *Matlab* / *Octave* (`.m`) codes and workbook of the case study of the Drance (VS, Switzerland).
 
