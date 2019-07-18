@@ -1,0 +1,5 @@
+The application of these data require:
+% set dx according to Peclet Number < 2 (Pe = u*dx/diff)
+diff = 0.01;        %[m²/s] exp. diffusion coefficient
+dx = 1.5*diff/2.0;    %[m] u=2.0 highest measured flow velocity
+nx = ceil(DX/dx);   %[-] INT, number of subsection
