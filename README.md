@@ -30,7 +30,7 @@ LaTex / Bibtex Users:
 ## Codes
  Signal processing was done with *Python* and the [pydroscape](https://sschwindt.github.io/pydroscape/)) package. The data analyses where made with *Matlab* / *Octave* (`.m`) codes, where codes starting with an `f[...].m` mark files containing functions. All other `.m` files are algorithms that use these functions. Please note that all codes were originally written in *Matlab* and processing them with *Octave* may require adding `pkg load io` after the `clear all; close all;` statements in the codes.
 
-## Data structure and codes
+## Data structure
 
 The data used in this paper incorporate the experiments used for the analyses in the paper ["Effects of lateral and vertical constrictions on flow in rough steep channels with bedload"](https://github.com/sschwindt/pub-constriction-bedload).
 
